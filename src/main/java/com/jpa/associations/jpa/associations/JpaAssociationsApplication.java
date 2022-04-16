@@ -12,6 +12,13 @@ public class JpaAssociationsApplication  implements CommandLineRunner {
 	store produit
 	store order lIne with order_id and produit_id
 	store Order header
+
+	select all product for category x
+	select product for all oOrderLine
+	(jpa , query , natyre ,jpql)
+	class test test
+	best practice getProductByOrderLines
+
 	 */
 
 	public static void main(String[] args) {
